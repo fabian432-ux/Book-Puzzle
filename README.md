@@ -1,4 +1,4 @@
-# Linked List Librarian
+# Book-Puzzle
 
 ## Description
 A 4-level text-based puzzle game written in C. The game uses a singly linked list to manage a collection of books. Players must solve riddles by manipulating the linked list directly—sorting nodes, deleting specific elements, and adding new ones based on the internal properties of the books (author, year, color).
